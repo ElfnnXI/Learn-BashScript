@@ -15,6 +15,21 @@ Learning **Bash Script** is an important first step for anyone looking to master
 
 ---
 
+##### 💡 In learning Bash Script, we will all learn the Intermediate of writing scripts.
+We will now explore mid-level scripting while continuing our exploration of Bash Script.
+At this point, we will investigate more useful and automated tasks such as:
+
+* Creating scheduled backups
+* Cleaning up old files automatically
+* Monitoring system resources
+* Logging user activity
+* Managing and inspecting services
+* Perform batch file operations
+
+These scripts will help us hone our Bash skills and get ready for real-world use cases in automation, DevOps workflows, and system administration.
+
+---
+
  ##### 📌 How to Create and Run a Bash Script
 
 Steps:
